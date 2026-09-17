@@ -74,6 +74,7 @@ User → POS Terminal → Transaction Interceptor
 smartpos/
 ├── app.py              # Flask app + rule engine
 ├── requirements.txt
+├── .env
 ├── instance/
 │   └── smartpos.db     # SQLite (auto-created)
 └── templates/
